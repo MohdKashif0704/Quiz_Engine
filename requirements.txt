@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+PyPDF2
+python-multipart
+openai
+python-dotenv
+requests
+reportlab
+google-generativeai
